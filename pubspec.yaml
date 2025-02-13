@@ -56,7 +56,6 @@ flutter:
     - assets/images/kongjian_startup_jiangpai_fist.png
     - assets/images/kongjian_startup_jiangpai_Second.png
     - assets/images/kongjian_startup_jiangpai_Third.png
-    - assets/images/jiangpai.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
